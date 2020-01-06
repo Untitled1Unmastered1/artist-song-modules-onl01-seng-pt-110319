@@ -1,5 +1,5 @@
 module Memorable 
-  
+  ClassMethod
   def reset_all
     all.clear
   end
